@@ -1,0 +1,231 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #030303;
+    background: url(../imagens/background3.png);
+}
+
+header {
+    background-color: #2b2b2b;
+    padding: 10px 0;
+    border-radius: 35px;
+    margin: 20px;
+}
+
+main img {
+    text-align: center;
+}
+
+p {
+    color: rgb(255, 255, 255); 
+}
+
+h2 {
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.linha {
+    padding: 0.001rem;
+    margin: 10px;
+}
+
+.logo {
+    float: left;
+    width: 150px;
+}
+
+.container {
+    height: 140px;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.ftperfil {
+    text-align: center;
+        img {
+        border-radius: 50%;
+        margin-bottom: 50px;
+    }
+}
+
+.sobre {
+    text-align: center;
+    border-radius: 1rem;
+    background-color: #2b2b2b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 5px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    max-width: 50%;
+    color:#e4e2dd;
+}
+
+nav {
+    float: right;
+    margin-top: 10px; 
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 10px;
+}
+
+a {
+    color: cornflowerblue;
+    margin: 5px;
+    padding: 4px;
+    border-radius: 6px;
+    transition: color 0.3s ease-in-out;
+}
+
+#rob {
+text-align: center;
+border-radius: 35px;
+background-color: #2b2b2b;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+margin-bottom: 20px;
+padding: 15px;
+margin: 0 auto;
+max-width: 35rem;
+margin-bottom: 40px;
+img {
+    width: 400px;
+    margin-right: 5px;
+    transition: 0.3s ease-in-out;    
+    border-radius: 10%;
+}
+a {
+    color: #e4e2dd;
+}
+a:hover {
+    color: azure;
+}
+}
+
+a:hover {
+color: azure;
+}
+
+
+#calcula {
+text-align: center;
+border-radius: 35px;
+background-color: #2b2b2b;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+margin-bottom: 20px;
+padding: 5px;
+margin: 0 auto;
+max-width: 35rem;
+img {
+    width: 499px;
+    transition: 0.3s ease-in-out;    
+    border-radius: 10%;
+}
+a {
+    color: #e4e2dd;
+}
+a:hover {
+    color: azure;
+}
+}
+
+#calcula img:hover {
+scale: 1.1;
+}
+
+#rob img:hover {
+scale: 1.1;
+}
+
+#proj {
+display: inline;
+}
+
+.sobremim {
+    border-radius: 1rem;
+    background-color: #2b2b2b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 5px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    max-width: 50%;
+    color: #e4e2dd;
+}
+
+.habilidades {
+    text-align: center;
+    border-radius: 1rem;
+    background-color: #2b2b2b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 5px;
+    margin: 0px auto;
+    margin-bottom: 50px;
+    max-width: 35rem;
+    color: #e4e2dd;
+
+       img {
+        float: left;
+        height: 100px;
+        width: 100px;
+        transition: 0.3s ease-in-out;    
+        border-radius: 10%;
+       }
+
+       li {
+        color:#2b2b2b;
+        list-style: none;
+    }
+}
+
+.habilidades img:hover {
+    scale: 1.1;
+    }
+
+section .formulario{
+    text-align: center;
+    border-radius: 20px;
+    background-color: #2b2b2b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 5px;
+    margin: 0px auto;
+    margin-bottom: 50px;
+    max-width: 35rem;
+    color:#e4e2dd;
+
+}
+
+#usuario {
+    border-radius: 20px;
+}
+
+#comentario {
+    border-radius: 20px;
+}
+
+#email {
+    border-radius: 20px;
+}
+
+#copy {
+    background-color:#2b2b2b;
+    width: 20%;
+    height: 20px;
+    border-radius: 7px;
+}
+
+footer {
+    background-color: #2b2b2b;
+    width: 400px;
+    height: 280px;
+    border-radius: 15px;
+}
+
